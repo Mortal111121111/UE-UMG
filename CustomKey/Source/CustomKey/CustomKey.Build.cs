@@ -38,7 +38,7 @@ public class CustomKey : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"InputCore"
+				"InputCore",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
